@@ -1,6 +1,7 @@
-
+Farm animao;
 void setup()
 {
-	//your variable declarations here
+	animao=new Farm();
+	animao.animalSounds();
 }
 
